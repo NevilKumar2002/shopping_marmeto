@@ -14,4 +14,4 @@ This project is a simple product showcase webpage built using HTML, CSS, and Jav
 
 - **Add to Cart:** The "Add to Cart" button allows users to add the selected product to their cart.
 
-
+Images extract from the API , is not a valid images so that I paste the url in html .
